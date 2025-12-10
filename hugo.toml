@@ -1,3 +1,94 @@
-baseURL = 'https://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
+baseURL = "http://localhost:1313/"
+title = "Junya Maruyama"
+theme = "anatole"
+
+defaultContentLanguage = "ja"
+defaultContentLanguageInSubdir = false
+
+[languages]
+
+  [languages.ja]
+    languageCode = "ja-JP"
+    languageName = "日本語"
+    contentDir = "content/ja"
+    weight = 1
+    title = "Junya Maruyama"
+
+    [languages.ja.params]
+      title = "Junya Maruyama"                  # サイドバー表示タイトル
+      author = "Junya Maruyama"
+      description = "丸山純矢"
+      profilePicture = "images/profile.jpg"
+
+    [languages.ja.menus]
+      [[languages.ja.menus.main]]
+        name = "About"
+        pageRef = "/about"
+        weight = 10
+      [[languages.ja.menus.main]]
+        name = "Work"
+        pageRef = "/work"
+        weight = 20
+      [[languages.ja.menus.main]]
+        name = "Education"
+        pageRef = "/education"
+        weight = 30
+      [[languages.ja.menus.main]]
+        name = "Publications"
+        pageRef = "/publications"
+        weight = 40
+      [[languages.ja.menus.main]]
+        name = "Awards"
+        pageRef = "/awards"
+        weight = 50
+      [[languages.ja.menus.main]]
+        name = "Funding"
+        pageRef = "/funding"
+        weight = 60
+
+  [languages.en]
+    languageCode = "en-US"
+    languageName = "English"
+    contentDir = "content/en"
+    weight = 2
+    title = "Junya Maruyama"
+
+    [languages.en.params]
+      title = "Junya Maruyama"
+      author = "Junya Maruyama"
+      description = "Short English bio."
+      profilePicture = "images/profile.jpg"
+
+    [languages.en.menus]
+      [[languages.en.menus.main]]
+        name = "About"
+        pageRef = "/about"
+        weight = 10
+      [[languages.en.menus.main]]
+        name = "Work"
+        pageRef = "/work"
+        weight = 20
+      [[languages.en.menus.main]]
+        name = "Education"
+        pageRef = "/education"
+        weight = 30
+      [[languages.en.menus.main]]
+        name = "Publications"
+        pageRef = "/publications"
+        weight = 40
+      [[languages.en.menus.main]]
+        name = "Awards"
+        pageRef = "/awards"
+        weight = 50
+      [[languages.en.menus.main]]
+        name = "Funding"
+        pageRef = "/funding"
+        weight = 60
+
+
+[params]
+  # 2カラム比率（本文割合）。デフォルト60%→例えば70%に :contentReference[oaicite:2]{index=2}
+  contentratio = 0.85
+
+  # （任意）各ページ（About等）でサイドバーを隠す :contentReference[oaicite:3]{index=3}
+  # hidesidebar = true

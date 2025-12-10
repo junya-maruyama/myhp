@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on Junya Maruyama</title>
+    <link>http://localhost:1313/en/</link>
+    <description>Recent content in Home on Junya Maruyama</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 10 Dec 2025 23:43:38 +0900</lastBuildDate><atom:link href="http://localhost:1313/en/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Awards</title>
+      <link>http://localhost:1313/en/awards/</link>
+      <pubDate>Wed, 10 Dec 2025 23:43:38 +0900</pubDate>
+      
+      <guid>http://localhost:1313/en/awards/</guid>
+      
+        <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Education</title>
+      <link>http://localhost:1313/en/education/</link>
+      <pubDate>Wed, 10 Dec 2025 23:43:38 +0900</pubDate>
+      
+      <guid>http://localhost:1313/en/education/</guid>
+      
+        <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Funding</title>
+      <link>http://localhost:1313/en/funding/</link>
+      <pubDate>Wed, 10 Dec 2025 23:43:38 +0900</pubDate>
+      
+      <guid>http://localhost:1313/en/funding/</guid>
+      
+        <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Publications</title>
+      <link>http://localhost:1313/en/publications/</link>
+      <pubDate>Wed, 10 Dec 2025 23:43:38 +0900</pubDate>
+      
+      <guid>http://localhost:1313/en/publications/</guid>
+      
+        <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Work</title>
+      <link>http://localhost:1313/en/work/</link>
+      <pubDate>Wed, 10 Dec 2025 23:43:38 +0900</pubDate>
+      
+      <guid>http://localhost:1313/en/work/</guid>
+      
+        <description></description>
+      
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/en/about/</link>
+      <pubDate>Wed, 10 Dec 2025 23:43:37 +0900</pubDate>
+      
+      <guid>http://localhost:1313/en/about/</guid>
+      
+        <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>
