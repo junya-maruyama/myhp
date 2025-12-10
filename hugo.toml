@@ -56,7 +56,6 @@ defaultContentLanguageInSubdir = false
     [languages.en.params]
       title = "Junya Maruyama"
       author = "Junya Maruyama"
-      description = "Short English bio."
       profilePicture = "images/profile.jpg"
 
     [languages.en.menus]

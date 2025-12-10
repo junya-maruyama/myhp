@@ -14,7 +14,11 @@
       
       <guid>http://localhost:1313/en/awards/</guid>
       
-        <description></description>
+        <description>&lt;ol&gt;
+&lt;li&gt;Maruyama, Junya (2025) “UTokyo-IIS Research Collaboration Initiative Award 2025,” Institute of Industrial Science, The University of Tokyo.&lt;/li&gt;
+&lt;li&gt;Maruyama, Junya (2025) “Special Allowance (Final-Year Bonus) for the Research Fellowship Stipend (JSPS Research Fellow) (unofficial translation) (Japanese: 「学術振興会特別研究員採用最終年次における研究奨励金特別手当」),” Japan Society for the Promotion of Science (JSPS).&lt;/li&gt;
+&lt;li&gt;Maruyama, Junya (2023) “Young Researcher’s Best Presentation Award (Information Systems Technology Division), Architectural Institute of Japan Annual Meeting (unofficial translation) (Japanese: 「2023年度日本建築学会大会（近畿）情報システム技術部門　若手優秀発表賞」)”, Research Committee on Information Systems Technology, Architectural Institute of Japan.&lt;/li&gt;
+&lt;/ol&gt;</description>
       
     </item>
     
@@ -25,7 +29,22 @@
       
       <guid>http://localhost:1313/en/education/</guid>
       
-        <description></description>
+        <description>&lt;h2 id=&#34;phd-of-engineering&#34;&gt;PhD of Engineering&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;April 2023 – March 2026&lt;/em&gt;&lt;br&gt;
+&lt;em&gt;Department of Architecture, School of Engineering, The University of Tokyo&lt;/em&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Dessertation&lt;/strong&gt;: A Mathematical Methodology for Architectural Space Evaluation Based on Indoor Mobility Data: From Data Construction to Applications&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Supervisor&lt;/strong&gt;: Dr. Yudai Honma&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;h2 id=&#34;master-of-engineering&#34;&gt;Master of Engineering&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;April 2021 – March 2023&lt;/em&gt;&lt;br&gt;
+&lt;em&gt;Department of Architecture, School of Engineering, The University of Tokyo&lt;/em&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Thesis&lt;/strong&gt;: Estimation of the Sequence in Architectural Space Using BLE Beacon Data&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Supervisor&lt;/strong&gt;: Dr. Yudai Honma&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt; &lt;/p&gt;</description>
       
     </item>
     
@@ -36,7 +55,14 @@
       
       <guid>http://localhost:1313/en/funding/</guid>
       
-        <description></description>
+        <description>&lt;ol&gt;
+&lt;li&gt;Maruyama, Junya (2023) “Grant-in-Aid for JSPS Fellows (KAKENHI)”, Japan Society for the Promotion of Science (JSPS), Call Number: 24KJ0699, Total Budget: JPY 1,500,000.&lt;br&gt;
+Research Title: Mathematical Evaluation of How Architectural Spaces Influence Human Behavior Using Behavioral Data (unofficial translation) (Japanese: 「『振舞』データの活用による建築空間が人々の行動にもたらす影響の数理的評価」).&lt;/li&gt;
+&lt;li&gt;Maruyama, Junya (2023) “Leadership Development Program for Ph.D.”, School of Engineering, The University of Tokyo, Total Budget: JPY 1,000,000.&lt;br&gt;
+Research Title: Mathematical Evaluation of How Architectural Spaces Influence Human Behavior Using Behavioral Data (unofficial translation) (Japanese: 「『振舞』データの活用による建築空間が人々の行動にもたらす影響の数理的評価」).&lt;/li&gt;
+&lt;li&gt;Maruyama, Junya (2023) “Research Assistant Support, Value Exchange Engineering Research Program”, Research Institute for an Inclusive Society through Engineering, The University of Tokyo, Total Budget: JPY 1,930,000.&lt;br&gt;
+Research Title: Development of an Indoor Trajectory Inference Model Using Beacon Data and Value Discovery through Quantitative Evaluation of Architectural Space (unofficial translation) (Japanese: 「ビーコンデータを用いた建物内経路推定モデルの開発と建築空間の定量的な評価による価値発見」).&lt;/li&gt;
+&lt;/ol&gt;</description>
       
     </item>
     
@@ -47,7 +73,51 @@
       
       <guid>http://localhost:1313/en/publications/</guid>
       
-        <description></description>
+        <description>&lt;h2 id=&#34;referred-journal-articles&#34;&gt;Referred Journal Articles&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Maruyama, Junya; Honma, Yudai; Hasegawa, Daisuke; Toki, Soma; Shiono, Naoshi. “Optimal Delivery Area Assignment for the Capital Vehicle Routing Problem Based on a Maximum Likelihood Approach.” Communications in Computer and Information Sciences, vol. 1684, pp. 157–167, Springer, Cham, Dec 2022.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;referred-international-conference-proceedings&#34;&gt;Referred International Conference Proceedings&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Maruyama, Junya; Honma, Yudai. “Poster Abstract: Spatiotemporal Location Distribution of Human Movement: A Behaviorally Aware Soft Decoding Approach.” In Proceedings of the 12th ACM International Conference on Systems for Energy-Efficient Buildings, Cities, and Transportation (BuildSys ’25), ACM, pp. 300-301, Nov 19–21, 2025.&lt;/li&gt;
+&lt;li&gt;Kida, Yuki; Maruyama, Junya; Hasada, Hiroyuki; Kakuta, Koichi; Nunami, Shizuo; Mogami, Kohei; Honma, Yudai. “Poster Abstract: How Seasons Shape Park Experience: Quantifying Openness and Colorfulness with Wearable LiDAR.” In Proceedings of the 12th ACM International Conference on Systems for Energy-Efficient Buildings, Cities, and Transportation (BuildSys ’25), ACM, pp. 330-331, Nov 19–21, 2025.&lt;/li&gt;
+&lt;li&gt;Maruyama, Junya; Honma, Yudai; Nishiyama, Yuuki; Kawahara, Yoshihiro. “A Trajectory Estimation Method from Spatially Sparse and Noisy Beacon Data Based on Spring Dynamics.” In Proceedings of the 10th ACM International Conference on Systems for Energy-Efficient Buildings, Cities, and Transportation (BuildSys ’23), ACM, pp. 286–287, Nov 15–16, 2023.&lt;/li&gt;
+&lt;li&gt;Shiono, Naoshi; Honma, Yudai; Maruyama, Junya; Toki, Soma. “Planning Optimization of Cylinder Distribution via IoT.” In Proceedings of the 5th International Conference on Intelligent Computing &amp;amp; Optimization (ICO 2022), Thailand, Oct 27–28, 2022.&lt;/li&gt;
+&lt;li&gt;Maruyama, Junya; Honma, Yudai; Hasegawa, Daisuke; Toki, Soma; Shiono, Naoshi. “Optimal Delivery Area Assignment for the Capital Vehicle Routing Problem Based on a Maximum Likelihood Approach.” In Proceedings of the International Conference in Optimization and Learning (OLA 2022), Italy, Jul 18–20, 2022.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;other-publications&#34;&gt;Other Publications&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Maruyama, Junya; Honma, Yudai. “Quantitative Detection of Territory Areas Using Indoor Flow Data (unofficial translation) (Japanese: 「屋内流動データを用いたなわばり領域の定量的検出」).” Architectural Institute of Japan Annual Meeting Abstract, Sep 2025. (in Japanese)&lt;/li&gt;
+&lt;li&gt;Maruyama, Junya; Honma, Yudai; Nishiyama, Yuuki; Kawahara, Yoshihiro. “Trajectory Estimation Method Based on Beacon Response Data in Buildings (unofficial translation) (Japanese: 「建物内におけるビーコン反応データに基づく移動軌跡の推定手法」).” Operations Research Society of Japan Spring Meeting Abstracts, Mar 2024. (in Japanese)&lt;/li&gt;
+&lt;li&gt;Maruyama, Junya; Honma, Yudai; Nishiyama, Yuuki; Kawahara, Yoshihiro. “Estimating Indoor Movement Routes Using BLE Beacon Data in Architectural Space (unofficial translation) (Japanese: 「BLEビーコンデータを用いた建築空間内における移動経路の推定」).” Architectural Institute of Japan Annual Meeting Abstract, Sep 2023. (in Japanese)&lt;/li&gt;
+&lt;li&gt;Maruyama, Junya; Honma, Yudai; Hasegawa, Daisuke; Toki, Soma; Shiono, Naoshi. “A Mathematical Study on Revealing Empirical Service Areas in Routing Visits (unofficial translation) (Japanese: 「巡回の訪問における経験的な担当領域の顕在化に関する数理的研究」).” Architectural Institute of Japan Annual Meeting Abstract, Sep 2022. (in Japanese)&lt;/li&gt;
+&lt;li&gt;Maruyama, Junya; Honma, Yudai; Hasegawa, Daisuke; Toki, Soma; Shiono, Naoshi. “Maximum Likelihood Estimation of Routing Service Areas via Delivery Planning Simulation (unofficial translation) (Japanese: 「配送計画シミュレーションによる巡回担当エリアの最尤推定」).” Operations Research Society of Japan Spring Meeting Abstracts, pp. 156–157, Mar 2022. (in Japanese)&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;symposiums--seminars&#34;&gt;Symposiums / Seminars&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Shiono, Naoshi; Maruyama, Junya. “Mathematics of Container Flow (unofficial translation) (Japanese: 「容器流動の数理」).” Operations Research Society of Japan, “Mathematics of Flow” SIG, 2nd Meeting (2022), Nov 2022. (in Japanese)&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;international-conference-presentations&#34;&gt;International Conference Presentations&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Maruyama, Junya; Honma, Yudai. “Proposal and Mathematical Examination of a Trajectory Estimation Model from Sparse and Noisy Location Data.” INFORMS Annual Meeting 2024, USA, Oct 20–23, 2024.&lt;/li&gt;
+&lt;li&gt;Hu, Yunqing; Maruyama, Junya; Isawa, Kaori; Honma, Yudai. “A Study on Spatial Cognition of Visitors Using Mathematical Analysis of Visitors’ Movement Within an Art Museum Gallery.” INFORMS Annual Meeting 2024, USA, Oct 20–23, 2024.&lt;/li&gt;
+&lt;li&gt;Maruyama, Junya; Honma, Yudai; Nishiyama, Yuuki; Kawahara, Yoshihiro. “An Optimization Method for Indoor Trajectory Estimation from Spatially Sparse and Noisy Beacon Data.” In Proceedings of OHOW 2023 – The 2nd International Symposium on One Health, One World, MDPI, Basel, Switzerland; Dhaka University, Dhaka, Dec 6–8, 2023.&lt;/li&gt;
+&lt;li&gt;Maruyama, Junya; Honma, Yudai; Hasegawa, Daisuke; Toki, Soma; Shiono, Naoshi. “Maximum Likelihood Estimation of the Optimal Area Assignment by Delivery Planning Simulation.” INFORMS Annual Meeting 2022, USA, Oct 16–19, 2022.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;other-presentations&#34;&gt;Other Presentations&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Maruyama, Junya; Honma, Yudai; Hasegawa, Daisuke; Toki, Soma; Shiono, Naoshi. “Maximum Likelihood Estimation of Service Areas Inferred from Delivery Planning Simulation (unofficial translation) (Japanese: 「配送計画シミュレーションから逆算する巡回担当エリアの最尤推定」).” Urban OR Winter Seminar 2021, Online, Dec 2021. (in Japanese)&lt;/li&gt;
+&lt;li&gt;Maruyama, Junya. “Volumetric Perception and Impression Evaluation in VR and Improving Perceptual Accuracy through Familiarization (unofficial translation) (Japanese: 「VR空間における容積認知及び印象評価と『慣れ』による認知精度向上の試み」).” Urban OR Spring Seminar 2021, Online, Apr 2021. (in Japanese)&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;press-release&#34;&gt;Press Release&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Osaka City University. “Honaikude and a-tune Co-host a Music Exchange Event Bridging Virtual and Real-World Spaces (unofficial translation) (Japanese: 「Honaikudeがa-tuneとタッグを組み、仮想空間と現実世界の境界を超えた音楽交流イベントを開催」).” 2022-11-16. &lt;a href=&#34;https://www.upc-osaka.ac.jp/info/press/entry-03786.html&#34;&gt;https://www.upc-osaka.ac.jp/info/press/entry-03786.html&lt;/a&gt; (accessed 2022-11-16)&lt;/li&gt;
+&lt;li&gt;Honaikude. “Honaikude Holds Its First Exhibition Toward Expo 2025 Osaka, Kansai (unofficial translation) (Japanese: 「大阪・関西万博に向けてHonaikude団体初の展示会を開催！！」).” &lt;a href=&#34;https://honaikude.net/exhibition-2021/&#34;&gt;https://honaikude.net/exhibition-2021/&lt;/a&gt; (accessed 2022-04-13)&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;patent&#34;&gt;Patent&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Homma, Yudai; Toki, Soma; Shiono, Naoshi; Maruyama, Junya; Hasegawa, Daisuke. “Area Determination Method and Information Processing Apparatus (unofficial translation) (Japanese: 「エリア決定方法および情報処理装置に関する発明」).” Japanese Patent Application No. 2022-111515, filed July 12, 2022.&lt;/li&gt;
+&lt;/ol&gt;</description>
       
     </item>
     
@@ -58,7 +128,13 @@
       
       <guid>http://localhost:1313/en/work/</guid>
       
-        <description></description>
+        <description>&lt;h2 id=&#34;japan-society-for-the-promotion-of-science-jsps--research-fellow-dc2-phd-fellowship&#34;&gt;Japan Society for the Promotion of Science (JSPS) — Research Fellow (DC2), PhD Fellowship&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;April 2024 – March 2026&lt;/em&gt;&lt;br&gt;
+&lt;em&gt;The University of Tokyo, Tokyo, Japan&lt;/em&gt;&lt;br&gt;
+Research Title: &lt;em&gt;Mathematical Evaluation of How Architectural Spaces Influence Human Behavior Using Behavioral Data&lt;/em&gt; (unofficial translation)&lt;/p&gt;
+&lt;h2 id=&#34;project-research-associate&#34;&gt;Project Research Associate&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;April 2026 – Current&lt;/em&gt;&lt;br&gt;
+&lt;em&gt;The University of Tokyo, Tokyo, Japan&lt;/em&gt;&lt;/p&gt;</description>
       
     </item>
     
@@ -69,7 +145,20 @@
       
       <guid>http://localhost:1313/en/about/</guid>
       
-        <description></description>
+        <description>&lt;h1 id=&#34;junya-maruyama&#34;&gt;Junya Maruyama&lt;/h1&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;h2 id=&#34;research-interests&#34;&gt;Research interests&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;indoor /outdoor mobility analysis&lt;/li&gt;
+&lt;li&gt;spatial networks&lt;/li&gt;
+&lt;li&gt;Mathematical Optimization&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;contact&#34;&gt;Contact&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Email: juntama0826 [at] g.ecc.u-tokyo.ac.jp&lt;/li&gt;
+&lt;li&gt;GitHub: &lt;a href=&#34;https://github.com/junya-maruyama&#34;&gt;https://github.com/junya-maruyama&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;ORCID: &lt;a href=&#34;https://orcid.org/0000-0002-6703-3259&#34;&gt;0000-0002-6703-3259&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
       
     </item>
     

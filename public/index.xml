@@ -14,7 +14,11 @@
       
       <guid>http://localhost:1313/awards/</guid>
       
-        <description></description>
+        <description>&lt;ol&gt;
+&lt;li&gt;丸山純矢 (2025) “UTokyo-IIS Research Collaboration Initiative Award 2025 優秀賞” 東京大学 生産技術研究所.&lt;/li&gt;
+&lt;li&gt;丸山純矢 (2025) “学術振興会特別研究員採用最終年次における研究奨励金特別手当 支給対象者” 日本学術振興会.&lt;/li&gt;
+&lt;li&gt;丸山純矢 (2023) “2023年日本建築学会学術講演会情報システム技術部門　若手優秀発表賞”, 日本建築学会 情報システム技術本委員会.&lt;/li&gt;
+&lt;/ol&gt;</description>
       
     </item>
     
@@ -25,7 +29,29 @@
       
       <guid>http://localhost:1313/education/</guid>
       
-        <description></description>
+        <description>&lt;h2 id=&#34;博士工学&#34;&gt;博士（工学）&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;2023年4月 – 2026年3月&lt;/em&gt;&lt;br&gt;
+&lt;em&gt;東京大学大学院 工学系研究科 建築学専攻&lt;/em&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;論文&lt;/strong&gt;: A Mathematical Methodology for Architectural Space Evaluation Based on Indoor Mobility Data: From Data Construction to Applications&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;指導教員&lt;/strong&gt;: 本間 裕大 准教授&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;h2 id=&#34;修士工学&#34;&gt;修士（工学）&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;2021年4月 – 2023年3月&lt;/em&gt;&lt;br&gt;
+&lt;em&gt;東京大学大学院 工学系研究科 建築学専攻&lt;/em&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;論文&lt;/strong&gt;: BLE ビーコンデータを用いた建築空間内におけるシークエンスの推定&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;指導教員&lt;/strong&gt;: 本間 裕大 准教授&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;h2 id=&#34;学士工学&#34;&gt;学士（工学）&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;2017年4月 – 2021年3月&lt;/em&gt;&lt;br&gt;
+&lt;em&gt;大阪市立大学 工学部 建築学科&lt;/em&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;論文&lt;/strong&gt;: VR空間における容積認知及び印象評価と「慣れ」による認知精度向上の試み&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;指導教員&lt;/strong&gt;: 徳尾野 徹 教授&lt;/li&gt;
+&lt;/ul&gt;</description>
       
     </item>
     
@@ -36,7 +62,16 @@
       
       <guid>http://localhost:1313/funding/</guid>
       
-        <description></description>
+        <description>&lt;ol&gt;
+&lt;li&gt;丸山純矢 (2023) “科研費 
+特別研究員奨励費”, 日本学術振興会,
+研究課題: 24KJ0699, 総額: 1,500,000 円.&lt;br&gt;
+研究課題名: 「振舞」データの活用による建築空間が人々の行動にもたらす影響の数理的評価.&lt;/li&gt;
+&lt;li&gt;丸山純矢 (2023) “リーダー博士人材育成基金”, 東京大学 工学系研究科, 総額: 1,000,000 円.&lt;br&gt;
+研究課題名: 「振舞」データの活用による建築空間が人々の行動にもたらす影響の数理的評価.&lt;/li&gt;
+&lt;li&gt;丸山純矢 (2023) “価値交換工学 萌芽研究RA”, 東京大学インクルーシブ工学連携研究機構, 総額: 1,930,000 円.&lt;br&gt;
+研究課題名: ビーコンデータを用いた建物内経路推定モデルの開発と建築空間の定量的な評価による価値発見.&lt;/li&gt;
+&lt;/ol&gt;</description>
       
     </item>
     
@@ -47,7 +82,51 @@
       
       <guid>http://localhost:1313/publications/</guid>
       
-        <description></description>
+        <description>&lt;h2 id=&#34;学術論文査読付き&#34;&gt;学術論文（査読付き）&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Maruyama, Junya; Honma, Yudai; Hasegawa, Daisuke; Toki, Soma; Shiono, Naoshi. “Optimal Delivery Area Assignment for the Capital Vehicle Routing Problem Based on a Maximum Likelihood Approach.” Communications in Computer and Information Sciences, vol. 1684, pp. 157–167, Springer, Cham, Dec 2022.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;国際会議論文査読付き&#34;&gt;国際会議論文（査読付き）&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Maruyama, Junya; Honma, Yudai. “Poster Abstract: Spatiotemporal Location Distribution of Human Movement: A Behaviorally Aware Soft Decoding Approach.” In Proceedings of the 12th ACM International Conference on Systems for Energy-Efficient Buildings, Cities, and Transportation (BuildSys ’25), ACM, pp. 300-301, Nov 19–21, 2025.&lt;/li&gt;
+&lt;li&gt;Kida, Yuki; Maruyama, Junya; Hasada, Hiroyuki; Kakuta, Koichi; Nunami, Shizuo; Mogami, Kohei; Honma, Yudai. “Poster Abstract: How Seasons Shape Park Experience: Quantifying Openness and Colorfulness with Wearable LiDAR.” In Proceedings of the 12th ACM International Conference on Systems for Energy-Efficient Buildings, Cities, and Transportation (BuildSys ’25), ACM, pp. 330-331, Nov 19–21, 2025.&lt;/li&gt;
+&lt;li&gt;Maruyama, Junya; Honma, Yudai; Nishiyama, Yuuki; Kawahara, Yoshihiro. “A Trajectory Estimation Method from Spatially Sparse and Noisy Beacon Data Based on Spring Dynamics.” In Proceedings of the 10th ACM International Conference on Systems for Energy-Efficient Buildings, Cities, and Transportation (BuildSys ’23), ACM, pp. 286–287, Nov 15–16, 2023.&lt;/li&gt;
+&lt;li&gt;Shiono, Naoshi; Honma, Yudai; Maruyama, Junya; Toki, Soma. “Planning Optimization of Cylinder Distribution via IoT.” In Proceedings of the 5th International Conference on Intelligent Computing &amp;amp; Optimization (ICO 2022), Thailand, Oct 27–28, 2022.&lt;/li&gt;
+&lt;li&gt;Maruyama, Junya; Honma, Yudai; Hasegawa, Daisuke; Toki, Soma; Shiono, Naoshi. “Optimal Delivery Area Assignment for the Capital Vehicle Routing Problem Based on a Maximum Likelihood Approach.” In Proceedings of the International Conference in Optimization and Learning (OLA 2022), Italy, Jul 18–20, 2022.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;その他の論文査読なし&#34;&gt;その他の論文（査読なし）&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;丸山純矢,本間裕大,長谷川大輔,土岐爽真,塩野直志，“配送計画シミュレーションによる巡回担当エリアの最尤推定”，日本オペレーションズ・リサーチ学会2022年春季研究発表会アブストラクト集，pp.156-157，2022年3月．&lt;/li&gt;
+&lt;li&gt;丸山純矢,本間裕大,長谷川大輔,土岐爽真,塩野直志，“巡回の訪問における経験的な担当領域の顕在化に関する数理的研究”，日本建築学会学術講演梗概集，2022年9月．&lt;/li&gt;
+&lt;li&gt;丸山純矢,本間裕大,西山勇毅,川原圭博，“BLEビーコンデータを用いた建築空間内における移動経路の推定”，日本建築学会学術講演梗概集，2023年9月．&lt;/li&gt;
+&lt;li&gt;丸山純矢，本間裕大，西山勇毅，川原圭博，“建物内におけるビーコン反応データに基づく移動軌跡の推定手法”，日本オペレーションズ・リサーチ学会2024年春季研究発表会アブストラクト集，2024年3月．&lt;/li&gt;
+&lt;li&gt;丸山純矢，本間裕大，“ 屋内流動データを用いたなわばり領域の定量的検出”，日本建築学会学術講演梗概集，2025年9月．&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;シンポジウム--セミナー&#34;&gt;シンポジウム / セミナー&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;塩野直志,丸山純矢，”容器流動の数理”，日本オペレーションズ・リサーチ学会「流動の数理」研究部会2022年第2回研究会，2022年11月．&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;国際学会における発表査読なし&#34;&gt;国際学会における発表（査読なし）&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Maruyama, Junya; Honma, Yudai. “Proposal and Mathematical Examination of a Trajectory Estimation Model from Sparse and Noisy Location Data.” INFORMS Annual Meeting 2024, USA, Oct 20–23, 2024.&lt;/li&gt;
+&lt;li&gt;Hu, Yunqing; Maruyama, Junya; Isawa, Kaori; Honma, Yudai. “A Study on Spatial Cognition of Visitors Using Mathematical Analysis of Visitors’ Movement Within an Art Museum Gallery.” INFORMS Annual Meeting 2024, USA, Oct 20–23, 2024.&lt;/li&gt;
+&lt;li&gt;Maruyama, Junya; Honma, Yudai; Nishiyama, Yuuki; Kawahara, Yoshihiro. “An Optimization Method for Indoor Trajectory Estimation from Spatially Sparse and Noisy Beacon Data.” In Proceedings of OHOW 2023 – The 2nd International Symposium on One Health, One World, MDPI, Basel, Switzerland; Dhaka University, Dhaka, Dec 6–8, 2023.&lt;/li&gt;
+&lt;li&gt;Maruyama, Junya; Honma, Yudai; Hasegawa, Daisuke; Toki, Soma; Shiono, Naoshi. “Maximum Likelihood Estimation of the Optimal Area Assignment by Delivery Planning Simulation.” INFORMS Annual Meeting 2022, USA, Oct 16–19, 2022.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;その他の発表査読なし&#34;&gt;その他の発表（査読なし）&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;丸山純矢，“VR空間における容積認知及び印象評価と「慣れ」による認知精度向上の試み”,都市のORスプリングセミナー2021，オンライン，2021年4月．&lt;/li&gt;
+&lt;li&gt;丸山純矢,本間裕大,長谷川大輔,土岐爽真,塩野直志，“配送計画シミュレーションから逆算する巡回担当エリアの最尤推定”，都市のORウィンターセミナー2021，オンライン，2021年12月．&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;プレスリリース&#34;&gt;プレスリリース&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;大阪市立大学プレスリリース；「Honaikudeがa-tuneとタッグを組み、仮想空間と現実世界の境界を超えた音楽交流イベントを開催」；https://www.upc-osaka.ac.jp/info/press/entry-03786.html（2022.11.16参照）&lt;/li&gt;
+&lt;li&gt;Honaikude; 「大阪・関西万博に向けてHonaikude団体初の展示会を開催！！」; &lt;a href=&#34;https://honaikude.net/exhibition-2021/%282022.04.13&#34;&gt;https://honaikude.net/exhibition-2021/(2022.04.13&lt;/a&gt;参照)&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;特許出願&#34;&gt;特許出願&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;本間裕大，土岐爽真，塩野直志，丸山純矢，長谷川大輔，エリア決定方法および情報処理装置に関する発明，出願番号：出願番号:2022-111515 提出日:2022年07月12日.&lt;/li&gt;
+&lt;/ol&gt;</description>
       
     </item>
     
@@ -58,18 +137,36 @@
       
       <guid>http://localhost:1313/work/</guid>
       
-        <description></description>
+        <description>&lt;h2 id=&#34;日本学術振興会特別研究員-dc2&#34;&gt;日本学術振興会特別研究員-DC2&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;2024年4月 – 2026年3月&lt;/em&gt;&lt;br&gt;
+&lt;em&gt;東京大学&lt;/em&gt;&lt;br&gt;
+Research Title: &lt;em&gt;「振舞」データの活用による建築空間が人々の行動にもたらす影響の数理的評価&lt;/em&gt;&lt;/p&gt;
+&lt;h2 id=&#34;特任助教&#34;&gt;特任助教&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;2026年4月 – 現在&lt;/em&gt;&lt;br&gt;
+&lt;em&gt;東京大学&lt;/em&gt;&lt;/p&gt;</description>
       
     </item>
     
     <item>
-      <title>About</title>
+      <title>丸山 純矢</title>
       <link>http://localhost:1313/about/</link>
       <pubDate>Wed, 10 Dec 2025 23:43:37 +0900</pubDate>
       
       <guid>http://localhost:1313/about/</guid>
       
-        <description></description>
+        <description>&lt;p&gt; &lt;/p&gt;
+&lt;h2 id=&#34;研究関心&#34;&gt;研究関心&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;屋内外の移動データ解析&lt;/li&gt;
+&lt;li&gt;空間ネットワーク&lt;/li&gt;
+&lt;li&gt;数理最適化&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;連絡先&#34;&gt;連絡先&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Email: juntama0826 [at] g.ecc.u-tokyo.ac.jp&lt;/li&gt;
+&lt;li&gt;GitHub: &lt;a href=&#34;https://github.com/junya-maruyama&#34;&gt;https://github.com/junya-maruyama&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;ORCID: &lt;a href=&#34;https://orcid.org/0000-0002-6703-3259&#34;&gt;0000-0002-6703-3259&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
       
     </item>
     
