@@ -22,7 +22,8 @@ title = 'Publications'
 5. Maruyama, Junya; Honma, Yudai; Hasegawa, Daisuke; Toki, Soma; Shiono, Naoshi. “Maximum Likelihood Estimation of Routing Service Areas via Delivery Planning Simulation (unofficial translation) (Japanese: 「配送計画シミュレーションによる巡回担当エリアの最尤推定」).” Operations Research Society of Japan Spring Meeting Abstracts, pp. 156–157, Mar 2022. (in Japanese)
 
 ## Symposiums / Seminars
-1. Shiono, Naoshi; Maruyama, Junya. “Mathematics of Container Flow (unofficial translation) (Japanese: 「容器流動の数理」).” Operations Research Society of Japan, “Mathematics of Flow” SIG, 2nd Meeting (2022), Nov 2022. (in Japanese)
+1. -	Junya Maruyama, “Extracting Architecture Insights from Coarse-Grained Human Mobility Information －Design and Operation Without Fine-Grained Tracking”, Architecture Manufacturing Research Network_ Lecture Series 04, 2026.02.
+2. Shiono, Naoshi; Maruyama, Junya. “Mathematics of Container Flow (unofficial translation) (Japanese: 「容器流動の数理」).” Operations Research Society of Japan, “Mathematics of Flow” SIG, 2nd Meeting (2022), Nov 2022. (in Japanese)
 
 ## International Conference Presentations
 1. Maruyama, Junya; Honma, Yudai. “Proposal and Mathematical Examination of a Trajectory Estimation Model from Sparse and Noisy Location Data.” INFORMS Annual Meeting 2024, USA, Oct 20–23, 2024.

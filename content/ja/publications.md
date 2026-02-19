@@ -22,7 +22,8 @@ title = 'Publications'
 5.	丸山純矢, 本間裕大，“ 屋内流動データを用いたなわばり領域の定量的検出”，日本建築学会学術講演梗概集，2025年9月．
 
 ## シンポジウム / セミナー
-1. 塩野直志, 丸山純矢，”容器流動の数理”，日本オペレーションズ・リサーチ学会「流動の数理」研究部会2022年第2回研究会，2022年11月．
+1. Junya Maruyama, “Extracting Architecture Insights from Coarse-Grained Human Mobility Information －Design and Operation Without Fine-Grained Tracking”, Architecture Manufacturing Research Network_ Lecture Series 04, 2026.02.
+2. 塩野直志, 丸山純矢，”容器流動の数理”，日本オペレーションズ・リサーチ学会「流動の数理」研究部会2022年第2回研究会，2022年11月．
 
 ## 国際学会における発表（査読なし）
 1. Maruyama, Junya; Honma, Yudai. “Proposal and Mathematical Examination of a Trajectory Estimation Model from Sparse and Noisy Location Data.” INFORMS Annual Meeting 2024, USA, Oct 20–23, 2024.
