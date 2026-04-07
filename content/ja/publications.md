@@ -6,7 +6,7 @@ title = 'Publications'
 
 ## 論文 (査読付き)
 ### Poster Abstract: Spatiotemporal Location Distribution of Human Movement: A Behaviorally Aware Soft Decoding Approach
-<span style="color:#bababa; font-size:1.15em;"><u>Maruyama, Junya</u>; Honma, Yudai.<br>In Proceedings of the 12th ACM International Conference on Systems for Energy-Efficient Buildings, Cities, and Transportation (BuildSys ’25), ACM, pp. 300-301, Nov 19–21, 2025.</span>
+<span style="color:#bababa; font-size:1em;"><u>Maruyama, Junya</u>; Honma, Yudai.<br>In Proceedings of the 12th ACM International Conference on Systems for Energy-Efficient Buildings, Cities, and Transportation (BuildSys ’25), ACM, pp. 300-301, Nov 19–21, 2025.</span>
 ### Poster Abstract: How Seasons Shape Park Experience: Quantifying Openness and Colorfulness with Wearable LiDAR
 Kida, Yuki; <u>Maruyama, Junya</u>; Hasada, Hiroyuki; Kakuta, Koichi; Nunami, Shizuo; Mogami, Kohei; Honma, Yudai<br>In Proceedings of the 12th ACM International Conference on Systems for Energy-Efficient Buildings, Cities, and Transportation (BuildSys ’25), ACM, pp. 330-331, Nov 19–21, 2025.
 
