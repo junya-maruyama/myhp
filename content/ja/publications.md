@@ -4,6 +4,9 @@ draft = false
 title = 'Publications'
 +++
 
+## 論文 (査読付き)
+1. [Poster Abstract: How Seasons Shape Park Experience: Quantifying Openness and Colorfulness with Wearable LiDAR](https://doi.org/10.1145/3736425.3772122)
+
 ## 学術論文（査読付き）
 1.	Maruyama, Junya; Honma, Yudai; Hasegawa, Daisuke; Toki, Soma; Shiono, Naoshi. “Optimal Delivery Area Assignment for the Capital Vehicle Routing Problem Based on a Maximum Likelihood Approach.” Communications in Computer and Information Sciences, vol. 1684, pp. 157–167, Springer, Cham, Dec 2022.
 
