@@ -28,6 +28,7 @@ title = 'Publications'
 > <span style="color:#bababa; font-size:0.8em;"><u>MARUYAMA, Junya</u>; HONMA, Yudai; HASEGAWA, Daisuke; TOKI, Soma; SHIONO, Naoshi<br>In Proceedings of the International Conference in Optimization and Learning (OLA 2022), Italy, Jul 18–20, 2022</span>
 
 ## その他の論文（査読なし）
+---
 <span style="font-size:1.15em;">屋内流動データを用いたなわばり領域の定量的検出</span><br>
 > <span style="color:#bababa; font-size:0.8em;"><u>丸山 純矢</u>, 本間 裕大<br>日本建築学会学術講演梗概集，2025年9月</span>
 
@@ -44,6 +45,7 @@ title = 'Publications'
 > <span style="color:#bababa; font-size:0.8em;"><u>丸山 純矢</u>, 本間 裕大, 長谷川 大輔, 土岐 爽真, 塩野 直志<br>日本オペレーションズ・リサーチ学会2022年春季研究発表会アブストラクト集，pp.156-157，2022年3月</span>
 
 ## 講演・口頭発表等
+---
 <span style="font-size:1.15em;">Extracting Architecture Insights from Coarse-Grained Human Mobility Information －Design and Operation Without Fine-Grained Tracking</span><br>
 > <span style="color:#bababa; font-size:0.8em;"><u>MARUYAMA, Junya</u><br>Architecture Manufacturing Research Network_ Lecture Series 04, 2026.02</span>
 
@@ -66,6 +68,7 @@ title = 'Publications'
 > <span style="color:#bababa; font-size:0.8em;"><u>丸山 純矢</u><br>都市のORスプリングセミナー2021，オンライン，2021年4月</span>
 
 ## プレスリリース
+---
 <span style="font-size:1.15em;">「Honaikudeがa-tuneとタッグを組み、仮想空間と現実世界の境界を超えた音楽交流イベントを開催」</span><br>
 > <span style="color:#bababa; font-size:0.8em;">[大阪市立大学プレスリリース](https://www.upc-osaka.ac.jp/info/press/entry-03786.html) （2022.11.16参照）</span>
 
@@ -73,5 +76,6 @@ title = 'Publications'
 > <span style="color:#bababa; font-size:0.8em;">[Honaikude](https://honaikude.net/exhibition-2021/) (2022.04.13参照)</span>
 
 ## 特許出願
+---
 <span style="font-size:1.15em;">エリア決定方法および情報処理装置に関する発明</span><br>
 > <span style="color:#bababa; font-size:0.8em;">本間 裕大，土岐 爽真，塩野 直志，<u>丸山 純矢</u>，長谷川 大輔<br>出願番号：出願番号:2022-111515 提出日:2022年07月12日</span>
