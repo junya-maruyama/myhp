@@ -5,6 +5,7 @@ title = 'Publications'
 +++
 
 ## 論文 (査読付き)
+---
 <span style="font-size:1.15em;">Poster Abstract: Spatiotemporal Location Distribution of Human Movement: A Behaviorally Aware Soft Decoding Approach</span><br>
 > <span style="color:#bababa; font-size:0.8em;"><u>MARUYAMA, Junya</u>; HONMA, Yudai<br>In Proceedings of the 12th ACM International Conference on Systems for Energy-Efficient Buildings, Cities, and Transportation (BuildSys ’25), ACM, pp. 300-301, Nov 19–21, 2025</span>
 
