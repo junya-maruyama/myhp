@@ -4,15 +4,12 @@ draft = false
 title = 'Work'
 +++
 
-## Project Research Associate
-*April 2026 – Current*  
-*The University of Tokyo, Tokyo, Japan*  
+<span style="font-size:1.15em;">Project Research Associate</span><br>
+> <span style="color:#bababa; font-size:0.8em;">April 2026 – Current<br>Institution of Industrial Science, The University of Tokyo, Tokyo, Japan</span>
 
-## Japan Society for the Promotion of Science (JSPS) — Research Fellow (DC2), PhD Fellowship
-*April 2024 – March 2026*  
-*The University of Tokyo, Tokyo, Japan*  
-Research Title: *Mathematical Evaluation of How Architectural Spaces Influence Human Behavior Using Behavioral Data* (unofficial translation)
+<span style="font-size:1.15em;">Japan Society for the Promotion of Science (JSPS) — Research Fellow (DC2), PhD Fellowship</span><br>
+> <span style="color:#bababa; font-size:0.8em;">April 2024 – March 2026<br>The University of Tokyo, Tokyo, Japan<br>Research Title: 「振舞」データの活用による建築空間が人々の行動にもたらす影響の数理的評価<br>Mathematical Evaluation of How Architectural Spaces Influence Human Behavior Using Behavioral Data (unofficial translation)</span>
 
-## Research Assistant
-*April 2023 – December 2024*  
-*Value Exchange Engineering Research Program, Research Institution of an Inclusive Science through Engineering, Tokyo, Japan*  
+<span style="font-size:1.15em;">Research Assistant</span><br>
+> <span style="color:#bababa; font-size:0.8em;">April 2023 – December 2024<br>Value Exchange Engineering Research Program, Research Institution of an Inclusive Science through Engineering, Tokyo, Japan</span>
+
