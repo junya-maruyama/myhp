@@ -4,7 +4,15 @@ draft = false
 title = 'Awards'
 +++
 
-1. Maruyama, Junya (2025) “Young Researcher’s Best Presentation Award (Architectural Planning Division), Architectural Institute of Japan Annual Meeting (unofficial translation) (Japanese: 「2025年度日本建築学会大会（九州）建築計画部門　若手優秀発表賞」)”, Architectural Institute of Japan. 
-2. Maruyama, Junya (2025) “UTokyo-IIS Research Collaboration Initiative Award 2025,” Institute of Industrial Science, The University of Tokyo.
-2.	Maruyama, Junya (2025) “Special Allowance (Final-Year Bonus) for the Research Fellowship Stipend (JSPS Research Fellow) (unofficial translation) (Japanese: 「学術振興会特別研究員採用最終年次における研究奨励金特別手当」),” Japan Society for the Promotion of Science (JSPS).
-3.	Maruyama, Junya (2023) “Young Researcher’s Best Presentation Award (Information Systems Technology Division), Architectural Institute of Japan Annual Meeting (unofficial translation) (Japanese: 「2023年度日本建築学会大会（近畿）情報システム技術部門　若手優秀発表賞」)”, Architectural Institute of Japan. 
+<span style="font-size:1.15em;">2025年日本建築学会学術講演会建築計画部門　若手優秀発表賞</span><br>
+> <span style="color:#bababa; font-size:0.8em;">Young Researcher’s Best Presentation Award (Architectural Planning Division), Architectural Institute of Japan Annual Meeting (unofficial translation)<br><u>MARUYAMA, Junya</u><br>Architectural Institute of Japan (2025)</span>
+
+<span style="font-size:1.15em;">UTokyo-IIS Research Collaboration Initiative Award 2025</span><br>
+> <span style="color:#bababa; font-size:0.8em;"><u>MARUYAMA, Junya</u><br>Institute of Industrial Science, The University of Tokyo (2025)</span>
+
+<span style="font-size:1.15em;">学術振興会特別研究員採用最終年次における研究奨励金特別手当 支給対象者</span><br>
+> <span style="color:#bababa; font-size:0.8em;">Special Allowance (Final-Year Bonus) for the Research Fellowship Stipend (JSPS Research Fellow) (unofficial translation)<br><u>MARUYAMA, Junya</u><br>Japan Society for the Promotion of Science (JSPS) (2025)</span>
+
+<span style="font-size:1.15em;">2023年日本建築学会学術講演会情報システム技術部門　若手優秀発表賞</span><br>
+> <span style="color:#bababa; font-size:0.8em;">Young Researcher’s Best Presentation Award (Information Systems Technology Division), Architectural Institute of Japan Annual Meeting (unofficial translation)<br><u>MARUYAMA, Junya</u><br>Architectural Institute of Japan (2023)</span>
+
