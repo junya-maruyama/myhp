@@ -91,3 +91,6 @@ defaultContentLanguageInSubdir = false
 
   # （任意）各ページ（About等）でサイドバーを隠す :contentReference[oaicite:3]{index=3}
   # hidesidebar = true
+
+[markup.goldmark.renderer]
+  unsafe = true
