@@ -79,7 +79,7 @@ defaultContentLanguageInSubdir = false
 
 [params]
   # 2カラム比率（本文割合）。デフォルト60%→例えば70%に :contentReference[oaicite:2]{index=2}
-  contentratio = 0.85
+  contentratio = 0.8
 
   # （任意）各ページ（About等）でサイドバーを隠す :contentReference[oaicite:3]{index=3}
   # hidesidebar = true
