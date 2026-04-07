@@ -13,5 +13,7 @@ title = '丸山 純矢'
 
 ## 連絡先
 - Email: juntama0826 [at] g.ecc.u-tokyo.ac.jp
+- Research Map: https://researchmap.jp/junyamaruyama
 - GitHub: https://github.com/junya-maruyama
 - ORCID: [0000-0002-6703-3259](https://orcid.org/0000-0002-6703-3259)
+- LinkedIn: https://www.linkedin.com/in/junya-maruyama/
