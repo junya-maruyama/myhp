@@ -92,5 +92,32 @@ defaultContentLanguageInSubdir = false
   # （任意）各ページ（About等）でサイドバーを隠す :contentReference[oaicite:3]{index=3}
   # hidesidebar = true
 
+[[params.socialIcons]]
+icon = "fas fa-envelope"
+title = "Email"
+url = "juntama0826@g.ecc.u-tokyo.ac.jp"
+
+[[params.socialIcons]]
+icon  = "rm-icon"
+title = "researchmap"
+url   = "https://researchmap.jp/junyamaruyama"
+
+[[params.socialIcons]]
+icon  = "fab fa-orcid"
+title = "ORCID"
+url   = "https://orcid.org/0000-0002-6703-3259"
+
+[[params.socialIcons]]
+icon = "fab fa-github"
+title = "GitHub"
+url = "https://github.com/junya-maruyama"
+
+[[params.socialIcons]]
+icon = "fab fa-linkedin"
+title = "LinkedIn"
+url = "https://www.linkedin.com/in/junya-maruyama/"
+
+
+
 [markup.goldmark.renderer]
   unsafe = true
