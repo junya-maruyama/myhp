@@ -6,18 +6,25 @@ title = 'Publications'
 
 ## 論文 (査読付き)
 <span style="font-size:1.15em;">Poster Abstract: Spatiotemporal Location Distribution of Human Movement: A Behaviorally Aware Soft Decoding Approach</span><br>
-<span style="color:#bababa; font-size:0.8em;"><u>Maruyama, Junya</u>; Honma, Yudai.<br>In Proceedings of the 12th ACM International Conference on Systems for Energy-Efficient Buildings, Cities, and Transportation (BuildSys ’25), ACM, pp. 300-301, Nov 19–21, 2025.</span><br>
+<span style="color:#bababa; font-size:0.8em;"><u>Maruyama, Junya</u>; Honma, Yudai<br>In Proceedings of the 12th ACM International Conference on Systems for Energy-Efficient Buildings, Cities, and Transportation (BuildSys ’25), ACM, pp. 300-301, Nov 19–21, 2025</span><br>
 <br>
-<span style="font-size:1.15em;">Poster Abstract: Spatiotemporal Location Distribution of Human Movement: A Behaviorally Aware Soft Decoding Approach</span><br>
-<span style="color:#bababa; font-size:0.8em;"><u>Maruyama, Junya</u>; Honma, Yudai.<br>In Proceedings of the 12th ACM International Conference on Systems for Energy-Efficient Buildings, Cities, and Transportation (BuildSys ’25), ACM, pp. 300-301, Nov 19–21, 2025.</span>
-### Poster Abstract: How Seasons Shape Park Experience: Quantifying Openness and Colorfulness with Wearable LiDAR
-Kida, Yuki; <u>Maruyama, Junya</u>; Hasada, Hiroyuki; Kakuta, Koichi; Nunami, Shizuo; Mogami, Kohei; Honma, Yudai<br>In Proceedings of the 12th ACM International Conference on Systems for Energy-Efficient Buildings, Cities, and Transportation (BuildSys ’25), ACM, pp. 330-331, Nov 19–21, 2025.
-
-3. <u>Maruyama, Junya</u>; Honma, Yudai; Nishiyama, Yuuki; Kawahara, Yoshihiro. “An Optimization Method for Indoor Trajectory Estimation from Spatially Sparse and Noisy Beacon Data.” In Proceedings of OHOW 2023 – The 2nd International Symposium on One Health, One World, MDPI, Basel, Switzerland; Dhaka University, Dhaka, Dec 6–8, 2023.
-4. <u>Maruyama, Junya</u>; Honma, Yudai; Nishiyama, Yuuki; Kawahara, Yoshihiro. “A Trajectory Estimation Method from Spatially Sparse and Noisy Beacon Data Based on Spring Dynamics.” In Proceedings of the 10th ACM International Conference on Systems for Energy-Efficient Buildings, Cities, and Transportation (BuildSys ’23), ACM, pp. 286–287, Nov 15–16, 2023.
-5. <u>Maruyama, Junya</u>; Honma, Yudai; Hasegawa, Daisuke; Toki, Soma; Shiono, Naoshi. “Optimal Delivery Area Assignment for the Capital Vehicle Routing Problem Based on a Maximum Likelihood Approach.” Communications in Computer and Information Sciences, vol. 1684, pp. 157–167, Springer, Cham, Dec 2022.
-6. Shiono, Naoshi; Honma, Yudai; <u>Maruyama, Junya</u>; Toki, Soma. “Planning Optimization of Cylinder Distribution via IoT.” In Proceedings of the 5th International Conference on Intelligent Computing & Optimization (ICO 2022), Thailand, Oct 27–28, 2022.
-7. <u>Maruyama, Junya</u>; Honma, Yudai; Hasegawa, Daisuke; Toki, Soma; Shiono, Naoshi. “Optimal Delivery Area Assignment for the Capital Vehicle Routing Problem Based on a Maximum Likelihood Approach.” In Proceedings of the International Conference in Optimization and Learning (OLA 2022), Italy, Jul 18–20, 2022.
+<span style="font-size:1.15em;">Poster Abstract: How Seasons Shape Park Experience: Quantifying Openness and Colorfulness with Wearable LiDAR</span><br>
+<span style="color:#bababa; font-size:0.8em;">Kida, Yuki; <u>Maruyama, Junya</u>; Hasada, Hiroyuki; Kakuta, Koichi; Nunami, Shizuo; Mogami, Kohei; Honma, Yudai<br>In Proceedings of the 12th ACM International Conference on Systems for Energy-Efficient Buildings, Cities, and Transportation (BuildSys ’25), ACM, pp. 330-331, Nov 19–21, 2025</span>
+<br>
+<span style="font-size:1.15em;">An Optimization Method for Indoor Trajectory Estimation from Spatially Sparse and Noisy Beacon Data</span><br>
+<span style="color:#bababa; font-size:0.8em;"><u>Maruyama, Junya</u>; Honma, Yudai; Nishiyama, Yuuki; Kawahara, Yoshihiro<br>In Proceedings of OHOW 2023 – The 2nd International Symposium on One Health, One World, MDPI, Basel, Switzerland; Dhaka University, Dhaka, Dec 6–8, 2023</span>
+<br>
+<span style="font-size:1.15em;">A Trajectory Estimation Method from Spatially Sparse and Noisy Beacon Data Based on Spring Dynamics</span><br>
+<span style="color:#bababa; font-size:0.8em;"><u>Maruyama, Junya</u>; Honma, Yudai; Nishiyama, Yuuki; Kawahara, Yoshihiro<br>In Proceedings of the 10th ACM International Conference on Systems for Energy-Efficient Buildings, Cities, and Transportation (BuildSys ’23), ACM, pp. 286–287, Nov 15–16, 2023</span>
+<br>
+<span style="font-size:1.15em;">Optimal Delivery Area Assignment for the Capital Vehicle Routing Problem Based on a Maximum Likelihood Approach</span><br>
+<span style="color:#bababa; font-size:0.8em;"><u>Maruyama, Junya</u>; Honma, Yudai; Hasegawa, Daisuke; Toki, Soma; Shiono, Naoshi<br>Communications in Computer and Information Sciences, vol. 1684, pp. 157–167, Springer, Cham, Dec 2022</span>
+<br>
+<span style="font-size:1.15em;">Planning Optimization of Cylinder Distribution via IoT</span><br>
+<span style="color:#bababa; font-size:0.8em;">Shiono, Naoshi; Honma, Yudai; <u>Maruyama, Junya</u>; Toki, Soma<br>In Proceedings of the 5th International Conference on Intelligent Computing & Optimization (ICO 2022), Thailand, Oct 27–28, 2022</span>
+<br>
+<span style="font-size:1.15em;">Optimal Delivery Area Assignment for the Capital Vehicle Routing Problem Based on a Maximum Likelihood Approach</span><br>
+<span style="color:#bababa; font-size:0.8em;"><u>Maruyama, Junya</u>; Honma, Yudai; Hasegawa, Daisuke; Toki, Soma; Shiono, Naoshi<br>In Proceedings of the International Conference in Optimization and Learning (OLA 2022), Italy, Jul 18–20, 2022</span>
 
 ## その他の論文（査読なし）
 1.	<u>丸山純矢</u>, 本間裕大, 長谷川大輔, 土岐爽真, 塩野直志，“配送計画シミュレーションによる巡回担当エリアの最尤推定”，日本オペレーションズ・リサーチ学会2022年春季研究発表会アブストラクト集，pp.156-157，2022年3月．
