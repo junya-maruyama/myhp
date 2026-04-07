@@ -22,10 +22,6 @@ defaultContentLanguageInSubdir = false
 
     [languages.ja.menus]
       [[languages.ja.menus.main]]
-        name = "About"
-        pageRef = "/about"
-        weight = 10
-      [[languages.ja.menus.main]]
         name = "Work"
         pageRef = "/work"
         weight = 20
@@ -60,10 +56,6 @@ defaultContentLanguageInSubdir = false
 
     [languages.en.menus]
       [[languages.en.menus.main]]
-        name = "About"
-        pageRef = "/about"
-        weight = 10
-      [[languages.en.menus.main]]
         name = "Work"
         pageRef = "/work"
         weight = 20
@@ -95,7 +87,7 @@ defaultContentLanguageInSubdir = false
 [[params.socialIcons]]
 icon = "fas fa-envelope"
 title = "Email"
-url = "juntama0826@g.ecc.u-tokyo.ac.jp"
+url = "mailto:juntama0826@g.ecc.u-tokyo.ac.jp"
 
 [[params.socialIcons]]
 icon  = "rm-icon"
