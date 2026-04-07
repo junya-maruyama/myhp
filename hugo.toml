@@ -90,7 +90,7 @@ title = "Email"
 url = "mailto:juntama0826@g.ecc.u-tokyo.ac.jp"
 
 [[params.socialIcons]]
-icon  = "rm-icon"
+icon  = "fas fa-link"
 title = "researchmap"
 url   = "https://researchmap.jp/junyamaruyama"
 
