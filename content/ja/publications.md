@@ -5,7 +5,7 @@ title = 'Publications'
 +++
 
 ## 論文 (査読付き)
-{{< linkcard href="[https://example.com](https://doi.org/10.1145/3736425.3772122)" >}}
+{{< linkcard href="[[https://example.com](https://doi.org/10.1145/3736425.3772122)](https://doi.org/10.1145/3736425.3772122)" >}}
 **Poster Abstract: How Seasons Shape Park Experience: Quantifying Openness and Colorfulness with Wearable LiDAR**  
 Kida, Yuki; Maruyama, Junya; Hasada, Hiroyuki; Kakuta, Koichi; Nunami, Shizuo; Mogami, Kohei; Honma, Yudai  
 In Proceedings of the 12th ACM International Conference on Systems for Energy-Efficient Buildings, Cities, and Transportation (BuildSys ’25), ACM, pp. 330-331, Nov 19–21, 2025
