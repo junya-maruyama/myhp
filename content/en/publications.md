@@ -5,6 +5,7 @@ title = 'Publications'
 +++
 
 ## Paper (Peer Reviewed)
+---
 <span style="font-size:1.15em;">Poster Abstract: Spatiotemporal Location Distribution of Human Movement: A Behaviorally Aware Soft Decoding Approach</span><br>
 > <span style="color:#bababa; font-size:0.8em;"><u>MARUYAMA, Junya</u>; HONMA, Yudai<br>In Proceedings of the 12th ACM International Conference on Systems for Energy-Efficient Buildings, Cities, and Transportation (BuildSys ’25), ACM, pp. 300-301, Nov 19–21, 2025</span>
 
@@ -27,6 +28,7 @@ title = 'Publications'
 > <span style="color:#bababa; font-size:0.8em;"><u>MARUYAMA, Junya</u>; HONMA, Yudai; HASEGAWA, Daisuke; TOKI, Soma; SHIONO, Naoshi<br>In Proceedings of the International Conference in Optimization and Learning (OLA 2022), Italy, Jul 18–20, 2022</span>
 
 ## Misc.
+---
 <span style="font-size:1.15em;">屋内流動データを用いたなわばり領域の定量的検出</span><br>
 > <span style="color:#bababa; font-size:0.8em;">Quantitative Detection of Territory Areas Using Indoor Flow Data (unofficial translation)<br><u>MARUYAMA, Junya</u>; HONMA, Yudai<br>Architectural Institute of Japan Annual Meeting Abstract, Sep 2025. (in Japanese)</span>
 
@@ -43,6 +45,7 @@ title = 'Publications'
 > <span style="color:#bababa; font-size:0.8em;">Maximum Likelihood Estimation of Routing Service Areas via Delivery Planning Simulation (unofficial translation)<br><u>MARUYAMA, Junya</u>; HONMA, Yudai; HASEGAWA, Daisuke; TOKI, Soma; SHIONO, Naoshi<br>Operations Research Society of Japan Spring Meeting Abstracts, pp. 156–157, Mar 2022. (in Japanese)</span>
 
 ## Presentations
+---
 <span style="font-size:1.15em;">Extracting Architecture Insights from Coarse-Grained Human Mobility Information －Design and Operation Without Fine-Grained Tracking</span><br>
 > <span style="color:#bababa; font-size:0.8em;"><u>MARUYAMA, Junya</u><br>Architecture Manufacturing Research Network_ Lecture Series 04, 2026.02</span>
 
@@ -65,6 +68,7 @@ title = 'Publications'
 > <span style="color:#bababa; font-size:0.8em;">Volumetric Perception and Impression Evaluation in VR and Improving Perceptual Accuracy through Familiarization (unofficial translation)<br><u>MARUYAMA, Junya</u><br>Urban OR Spring Seminar 2021, Online, Apr 2021. (in Japanese)</span>
 
 ## Press Release
+---
 <span style="font-size:1.15em;">「Honaikudeがa-tuneとタッグを組み、仮想空間と現実世界の境界を超えた音楽交流イベントを開催」</span><br>
 > <span style="color:#bababa; font-size:0.8em;">Honaikude and a-tune Co-host a Music Exchange Event Bridging Virtual and Real-World Spaces (unofficial translation)<br>[Osaka City University](https://www.upc-osaka.ac.jp/info/press/entry-03786.html) （accessed 2022-11-16）</span>
 
@@ -72,5 +76,6 @@ title = 'Publications'
 > <span style="color:#bababa; font-size:0.8em;">Honaikude Holds Its First Exhibition Toward Expo 2025 Osaka, Kansai (unofficial translation)<br>[Honaikude](https://honaikude.net/exhibition-2021/) (accessed 2022-04-13)</span>
 
 ## Patent
+---
 <span style="font-size:1.15em;">「エリア決定方法および情報処理装置に関する発明」</span><br>
 > <span style="color:#bababa; font-size:0.8em;">Area Determination Method and Information Processing Apparatus (unofficial translation)<br>HONMA, Yudai; TOKI, Soma; SHIONO, Naoshi; <u>MARUYAMA, Junya</u>; HASEGAWA, Daisuke<br>Japanese Patent Application No. 2022-111515, filed July 12, 2022</span>
