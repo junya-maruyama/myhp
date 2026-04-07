@@ -2,8 +2,7 @@
 title: "Home"
 ---
 # MARUYAMA, Junya
-> Project Research Associate / Ph.D.
-> Insitution of Industrial Science, The University of Tokyo
+> Project Research Associate / Ph.D.<br>Insitution of Industrial Science, The University of Tokyo
 
 &nbsp;
 
