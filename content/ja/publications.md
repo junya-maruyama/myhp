@@ -5,11 +5,11 @@ title = 'Publications'
 +++
 
 ## 論文 (査読付き)
-<a class="linkcard" href="[https://example.com](https://doi.org/10.1145/3736425.3772122)">
-  <strong>Poster Abstract: How Seasons Shape Park Experience: Quantifying Openness and Colorfulness with Wearable LiDAR</strong><br>
-  Kida, Yuki; Maruyama, Junya; Hasada, Hiroyuki; Kakuta, Koichi; Nunami, Shizuo; Mogami, Kohei; Honma, Yudai. <br>
-  In Proceedings of the 12th ACM International Conference on Systems for Energy-Efficient Buildings, Cities, and Transportation (BuildSys ’25), ACM, pp. 330-331, Nov 19–21, 2025.
-</a>
+{{< linkcard href="[https://example.com](https://doi.org/10.1145/3736425.3772122)" >}}
+**Poster Abstract: How Seasons Shape Park Experience: Quantifying Openness and Colorfulness with Wearable LiDAR**  
+Kida, Yuki; Maruyama, Junya; Hasada, Hiroyuki; Kakuta, Koichi; Nunami, Shizuo; Mogami, Kohei; Honma, Yudai  
+In Proceedings of the 12th ACM International Conference on Systems for Energy-Efficient Buildings, Cities, and Transportation (BuildSys ’25), ACM, pp. 330-331, Nov 19–21, 2025
+{{< /linkcard >}}
 
 ## 学術論文（査読付き）
 1.	Maruyama, Junya; Honma, Yudai; Hasegawa, Daisuke; Toki, Soma; Shiono, Naoshi. “Optimal Delivery Area Assignment for the Capital Vehicle Routing Problem Based on a Maximum Likelihood Approach.” Communications in Computer and Information Sciences, vol. 1684, pp. 157–167, Springer, Cham, Dec 2022.
