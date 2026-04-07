@@ -7,12 +7,12 @@ title = 'Publications'
 ## 論文 (査読付き)
 <span style="font-size:1.15em;">Poster Abstract: Spatiotemporal Location Distribution of Human Movement: A Behaviorally Aware Soft Decoding Approach</span><br>
 > <span style="color:#bababa; font-size:0.8em;"><u>Maruyama, Junya</u>; Honma, Yudai<br>In Proceedings of the 12th ACM International Conference on Systems for Energy-Efficient Buildings, Cities, and Transportation (BuildSys ’25), ACM, pp. 300-301, Nov 19–21, 2025</span>
-<br>
+
 <span style="font-size:1.15em;">Poster Abstract: How Seasons Shape Park Experience: Quantifying Openness and Colorfulness with Wearable LiDAR</span><br>
-<span style="color:#bababa; font-size:0.8em;">Kida, Yuki; <u>Maruyama, Junya</u>; Hasada, Hiroyuki; Kakuta, Koichi; Nunami, Shizuo; Mogami, Kohei; Honma, Yudai<br>In Proceedings of the 12th ACM International Conference on Systems for Energy-Efficient Buildings, Cities, and Transportation (BuildSys ’25), ACM, pp. 330-331, Nov 19–21, 2025</span>
-<br>
+> <span style="color:#bababa; font-size:0.8em;">Kida, Yuki; <u>Maruyama, Junya</u>; Hasada, Hiroyuki; Kakuta, Koichi; Nunami, Shizuo; Mogami, Kohei; Honma, Yudai<br>In Proceedings of the 12th ACM International Conference on Systems for Energy-Efficient Buildings, Cities, and Transportation (BuildSys ’25), ACM, pp. 330-331, Nov 19–21, 2025</span>
+
 <span style="font-size:1.15em;">An Optimization Method for Indoor Trajectory Estimation from Spatially Sparse and Noisy Beacon Data</span><br>
-<span style="color:#bababa; font-size:0.8em;"><u>Maruyama, Junya</u>; Honma, Yudai; Nishiyama, Yuuki; Kawahara, Yoshihiro<br>In Proceedings of OHOW 2023 – The 2nd International Symposium on One Health, One World, MDPI, Basel, Switzerland; Dhaka University, Dhaka, Dec 6–8, 2023</span>
+> <span style="color:#bababa; font-size:0.8em;"><u>Maruyama, Junya</u>; Honma, Yudai; Nishiyama, Yuuki; Kawahara, Yoshihiro<br>In Proceedings of OHOW 2023 – The 2nd International Symposium on One Health, One World, MDPI, Basel, Switzerland; Dhaka University, Dhaka, Dec 6–8, 2023</span>
 <br>
 <span style="font-size:1.15em;">A Trajectory Estimation Method from Spatially Sparse and Noisy Beacon Data Based on Spring Dynamics</span><br>
 <span style="color:#bababa; font-size:0.8em;"><u>Maruyama, Junya</u>; Honma, Yudai; Nishiyama, Yuuki; Kawahara, Yoshihiro<br>In Proceedings of the 10th ACM International Conference on Systems for Energy-Efficient Buildings, Cities, and Transportation (BuildSys ’23), ACM, pp. 286–287, Nov 15–16, 2023</span>
