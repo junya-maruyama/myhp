@@ -1,0 +1,15 @@
+.linkcard{
+  display:block;
+  padding:1rem;
+  border:1px solid rgba(0,0,0,.12);
+  border-radius:12px;
+  text-decoration:none;
+  color:inherit;
+}
+
+.linkcard:hover{
+  text-decoration:none;
+}
+
+.linkcard__inner > :first-child{ margin-top:0; }
+.linkcard__inner > :last-child{ margin-bottom:0; }
