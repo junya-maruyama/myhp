@@ -13,3 +13,4 @@
 
 .linkcard__inner > :first-child{ margin-top:0; }
 .linkcard__inner > :last-child{ margin-bottom:0; }
+.indent { margin-left: 1.2em; }
