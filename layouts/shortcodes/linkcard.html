@@ -1,0 +1,8 @@
+{{- $href := .Get "href" -}}
+{{- $target := .Get "target" | default "" -}}
+<a class="linkcard" href="{{ $href | safeURL }}"
+  {{- if $target }} target="{{ $target }}" rel="noopener noreferrer"{{ end -}}>
+  <div class="linkcard__inner">
+    {{ .Inner | markdownify }}
+  </div>
+</a>
