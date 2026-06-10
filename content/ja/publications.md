@@ -35,6 +35,9 @@ title = 'Publications'
 <span style="font-size:1.15em;">屋内流動データを用いたなわばり領域の定量的検出</span><br>
 > <span style="color:#808080; font-size:0.8em;"><u>丸山 純矢</u>, 本間 裕大<br>日本建築学会学術講演梗概集，2025年9月</span>
 
+<span style="font-size:1.15em;">クラスタリングから導き出された漢方医学の証に代わる新たな症状パターンの定義内流動データを用いたなわばり領域の定量的検出</span><br>
+> <span style="color:#808080; font-size:0.8em;">濱嶋　一成, 丹羽　文俊, <u>丸山　純矢</u>, 柳澤　舜太郎, 三谷　和男<br>日本東洋医学会学術総会, 2024年6月.</span>
+
 <span style="font-size:1.15em;">建物内におけるビーコン反応データに基づく移動軌跡の推定手法</span><br>
 > <span style="color:#808080; font-size:0.8em;"><u>丸山 純矢</u>, 本間 裕大, 西山 勇毅, 川原 圭博<br>日本オペレーションズ・リサーチ学会2024年春季研究発表会アブストラクト集，2024年3月</span>
 

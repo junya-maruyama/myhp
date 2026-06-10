@@ -35,6 +35,9 @@ title = 'Publications'
 <span style="font-size:1.15em;">屋内流動データを用いたなわばり領域の定量的検出</span><br>
 > <span style="color:#808080; font-size:0.8em;">Quantitative Detection of Territory Areas Using Indoor Flow Data (unofficial translation)<br><u>MARUYAMA, Junya</u>; HONMA, Yudai<br>Architectural Institute of Japan Annual Meeting Abstract, Sep 2025. (in Japanese)</span>
 
+<span style="font-size:1.15em;">クラスタリングから導き出された漢方医学の証に代わる新たな症状パターンの定義</span><br>
+> <span style="color:#808080; font-size:0.8em;">A new definition of symptom patterns derived from clustering as an alternative to Kampo medicine’s traditional “sho” classifications (unofficial translation)<br>HAMAJIMA, Issei; NIWA, Fumitoshi; <u>MARUYAMA, Junya</u>; YANAGISAWA, Syuntaro; MITANI, Kazuo<br>74th Annual Meeting of the Japan Society for Oriental Medicine, Jun 2024. (in Japanese)</span>
+
 <span style="font-size:1.15em;">建物内におけるビーコン反応データに基づく移動軌跡の推定手法</span><br>
 > <span style="color:#808080; font-size:0.8em;">Trajectory Estimation Method Based on Beacon Response Data in Buildings (unofficial translation)<br><u>MARUYAMA, Junya</u>; HONMA, Yudai; NISHIYAMA, Yuuki; KAWAHARA<br>Operations Research Society of Japan Spring Meeting Abstracts, Mar 2024. (in Japanese)</span>
 
