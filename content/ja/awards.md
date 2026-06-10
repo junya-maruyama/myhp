@@ -14,7 +14,7 @@ title = 'Awards'
 > <span style="color:#808080; font-size:0.8em;"><u>丸山 純矢</u><br>日本学術振興会 (2025)</span>
 
 <span style="font-size:1.15em;">優秀演題（会頭賞）</span><br>
-> <span style="color:#808080; font-size:0.8em;">濱嶋　一成, 丹羽　文俊, <u>丸山　純矢</u>, 柳澤　舜太郎, 三谷　和男<br>日本東洋医学会学術総会 (2024)</span>
+> <span style="color:#808080; font-size:0.8em;">濱嶋　一成, 丹羽　文俊, <u>丸山　純矢</u>, 柳澤　舜太郎, 三谷　和男<br>第74回日本東洋医学会学術総会 (2024)</span>
 
 <span style="font-size:1.15em;">2023年日本建築学会学術講演会情報システム技術部門　若手優秀発表賞</span><br>
 > <span style="color:#808080; font-size:0.8em;"><u>丸山 純矢</u><br>日本建築学会 (2023)</span>
