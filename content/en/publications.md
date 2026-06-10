@@ -6,6 +6,9 @@ title = 'Publications'
 
 ## Paper (Peer Reviewed)
 ---
+<span style="font-size:1.15em;">From Behavior to Office Design Insights: A Framework for Modeling Attractiveness Using Map-matched Trajectories and 3D Tag Information</span><br>
+> <span style="color:#808080; font-size:0.8em;">HASADA, Hiroyuki; <u>MARUYAMA, Junya</u>; MUKAI, Ayumi; IMAI, Hiroki; TAKAHASHI, Ryohei; AKIYAMA, Tomiki; LI, Jingya; GOTO, Hiroaki; TAKESHITA, Shiro; HONMA, Yudai<br>In Proceedings of the 31st International Conference of the Association for Computer-Aided Architectural Design Research in Asia (CAADRIA) 2026, vol. 3, pp. 357-366, 2026</span>
+
 <span style="font-size:1.15em;">Poster Abstract: Spatiotemporal Location Distribution of Human Movement: A Behaviorally Aware Soft Decoding Approach</span><br>
 > <span style="color:#808080; font-size:0.8em;"><u>MARUYAMA, Junya</u>; HONMA, Yudai<br>In Proceedings of the 12th ACM International Conference on Systems for Energy-Efficient Buildings, Cities, and Transportation (BuildSys ’25), ACM, pp. 300-301, Nov 19–21, 2025</span>
 
